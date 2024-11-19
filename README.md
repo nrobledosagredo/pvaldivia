@@ -7,7 +7,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-This project simulates an online bakery store, with features such as viewing bakery products, creating and managing user accounts, placing online orders, and an admin panel to manage products and orders. Real-time customer support is provided through a chat system. Created as part of a learning project to explore full-stack web development using Node.js, React  MongoDB.
+This project simulates an online bakery store, with features such as viewing bakery products, creating and managing user accounts, placing online orders, and an admin panel to manage products and orders. Real-time customer support is provided through a chat system. Created as part of a learning project to explore full-stack web development using Node.js, React and MongoDB.
 
 ## Features
 
