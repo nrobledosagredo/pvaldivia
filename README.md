@@ -7,19 +7,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-Project created as part of the learning process for web application development. The project covers both **backend** and **frontend** with **Node.js** and **React**, using **MongoDB** as the database. It also integrates **Socket.IO** for real-time messaging.
-
-## Description
-
-This project simulates an online bakery store, with features such as:
-
-- Viewing bakery products.
-- Creating and managing user accounts.
-- Placing online orders.
-- Admin panel to manage products and orders.
-- Real-time customer support through a chat system.
-
-The project is structured using **microservices** with **Express** on the backend and a **SPA** with **React** on the frontend.
+This project simulates an online bakery store, with features such as viewing bakery products, creating and managing user accounts, placing online orders, and an admin panel to manage products and orders. Real-time customer support is provided through a chat system. Created as part of a learning project to explore full-stack web development using Node.js, React  MongoDB.
 
 ## Features
 
@@ -28,11 +16,11 @@ The project is structured using **microservices** with **Express** on the backen
   - User and product management.
   - Integration with **MongoDB** for the database.
   - Real-time chat system using **Socket.IO**.
-  - PayPal payment integration.
+  - **PayPal** payment integration.
   
 - **Frontend**:
   - Responsive design with **React**.
-  - Home screen, product details, shopping cart, and order history.
+  - Screens for home, product details, shopping cart, and order history.
   - User authentication (signup, login).
   - Real-time notifications system for users and administrators.
 
